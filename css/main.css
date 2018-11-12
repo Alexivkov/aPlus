@@ -1,0 +1,23 @@
+body {
+    background: #6451d5;
+}
+
+    img.logo {
+    height: 80px;
+    width: 180px;
+    display: inline-block;
+    margin-right: 170px;
+}
+
+.main-menu a {
+    display: inline-block;
+    color: #ffffff;
+    padding-right: 60px;
+    font-family: Trebuchet MS;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.main-menu {
+    background: red;
+}
